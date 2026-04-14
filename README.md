@@ -226,7 +226,7 @@ This project is the **Course 6 Capstone** of the [Google Advanced Data Analytics
 Senior Manager IT | Oracle RAC DBA | Data Analytics  
 Union Bank of India, Mumbai
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/arijit-burman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/arijit-burman-525832133)
 
 ---
 
