@@ -1,0 +1,23 @@
+# Salifort Motors — Employee Retention Prediction
+# Python Dependencies
+# Tested on Python 3.11
+
+# Core data science
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine learning
+scikit-learn>=1.3.0
+
+# Notebook environment
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.25.0
+
+# Optional: for PDF report generation (used in project scaffolding)
+reportlab>=4.0.0
+pypdf>=3.0.0
